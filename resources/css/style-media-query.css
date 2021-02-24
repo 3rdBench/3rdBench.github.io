@@ -1,0 +1,502 @@
+@media only screen and (max-width: 1024px) {
+
+  /* ----------------------- */
+  /* Basic Setup             */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Reusable Components     */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Header Section          */
+  /* ----------------------- */
+  .hero-text-box {
+    left: 15%;
+  }
+
+  .main-navigation li {
+    margin-right: 30px;
+  }
+
+  .main-navigation a:link,
+  .main-navigation a:visited {
+    font-size: 85%;
+  }
+
+  /* ----------------------- */
+  /* About Section           */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Portfolio Section       */
+  /* ----------------------- */
+  .portfolio-image {
+    height: 250px;
+  }
+
+  /* ----------------------- */
+  /* Socials Section         */
+  /* ----------------------- */
+  .socials-container {
+    margin-left: 18%;
+  }
+
+  /* ----------------------- */
+  /* Footer Section          */
+  /* ----------------------- */
+}
+
+@media only screen and (max-width: 915px) {
+
+  /* ----------------------- */
+  /* Basic Setup             */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Reusable Components     */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Header Section          */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* About Section           */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Portfolio Section       */
+  /* ----------------------- */
+  .portfolio-column {
+    width: 100%;
+  }
+
+  .portfolio-name {
+    text-align: center;
+  }
+
+  .portfolio-details {
+    text-align: center;
+  }
+
+  .portfolio-links {
+    text-align: center;
+  }
+
+  /* ----------------------- */
+  /* Socials Section         */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Footer Section          */
+  /* ----------------------- */
+}
+
+@media only screen and (max-width: 768px) {
+
+  /* ----------------------- */
+  /* Basic Setup             */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Reusable Components     */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Header Section          */
+  /* ----------------------- */
+  .hero-text-box {
+    top: 38%;
+    left: 5%;
+  }
+
+  /* ----------------------- */
+  /* About Section           */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Portfolio Section       */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Socials Section         */
+  /* ----------------------- */
+  .socials-container {
+    margin-left: 28%;
+  }
+
+  /* ----------------------- */
+  /* Footer Section          */
+  /* ----------------------- */
+}
+
+@media only screen and (max-width: 720px) {
+
+  /* ----------------------- */
+  /* Basic Setup             */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Reusable Components     */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Header Section          */
+  /* ----------------------- */
+  .hero-text-box {
+    top: 40%;
+    left: 10%;
+  }
+
+  /* ----------------------- */
+  /* About Section           */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Portfolio Section       */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Socials Section         */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Footer Section          */
+  /* ----------------------- */
+}
+
+@media only screen and (max-width: 653px) {
+
+  /* ----------------------- */
+  /* Basic Setup             */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Reusable Components     */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Header Section          */
+  /* ----------------------- */
+  .hero-text-box {
+    top: 45%;
+    margin-right: 8px;
+  }
+
+  /* ----------------------- */
+  /* About Section           */
+  /* ----------------------- */
+  .skillset-column {
+    width: 100%;
+  }
+
+  /* ----------------------- */
+  /* Portfolio Section       */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Socials Section         */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Footer Section          */
+  /* ----------------------- */
+}
+
+@media only screen and (max-width: 545px) {
+
+  /* ----------------------- */
+  /* Basic Setup             */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Reusable Components     */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Header Section          */
+  /* ----------------------- */
+  .hero-text-box {
+    top: 40%;
+    left: 5%;
+  }
+
+  .main-navigation {
+    margin-top: 65px;
+  }
+
+  .main-navigation li {
+    margin-left: 5px;
+    margin-right: 20px;
+  }
+
+  /* ----------------------- */
+  /* About Section           */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Portfolio Section       */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Socials Section         */
+  /* ----------------------- */
+  .socials-container {
+    margin-left: 18%;
+  }
+
+  /* ----------------------- */
+  /* Footer Section          */
+  /* ----------------------- */
+}
+
+@media only screen and (max-width: 480px) {
+
+  /* ----------------------- */
+  /* Basic Setup             */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Reusable Components     */
+  /* ----------------------- */
+  h1 {
+    font-size: 170%;
+  }
+
+  /* ----------------------- */
+  /* Header Section          */
+  /* ----------------------- */
+  .hero-text-box {
+    top: 38%;
+    left: 10%;
+  }
+
+  .main-navigation li {
+    margin-left: 1px;
+    margin-right: 10px;
+  }
+
+  /* ----------------------- */
+  /* About Section           */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Portfolio Section       */
+  /* ----------------------- */
+  .portfolio-image {
+    height: 150px;
+  }
+
+  /* ----------------------- */
+  /* Socials Section         */
+  /* ----------------------- */
+  .socials-container {
+    margin-left: 15%;
+  }
+
+  /* ----------------------- */
+  /* Footer Section          */
+  /* ----------------------- */
+}
+
+@media only screen and (max-width: 414px) {
+
+  /* ----------------------- */
+  /* Basic Setup             */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Reusable Components     */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Header Section          */
+  /* ----------------------- */
+  .hero-text-box {
+    top: 40%;
+    left: 8%;
+  }
+
+  .main-navigation {
+    margin-top: 35px;
+  }
+
+  .logo {
+    height: 80px;
+    width: auto;
+  }
+
+  /* ----------------------- */
+  /* About Section           */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Portfolio Section       */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Socials Section         */
+  /* ----------------------- */
+  .socials-container {
+    margin-left: 20%;
+  }
+
+  .socials-text {
+    margin: 0 4px;
+    text-align: center;
+  }
+
+  .socials-icon {
+    margin: 0 10px;
+  }
+
+  /* ----------------------- */
+  /* Footer Section          */
+  /* ----------------------- */
+}
+
+@media only screen and (max-width: 375px) {
+
+  /* ----------------------- */
+  /* Basic Setup             */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Reusable Components     */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Header Section          */
+  /* ----------------------- */
+  .hero-text-box {
+    top: 38%;
+    left: 4%;
+  }
+
+  .main-navigation li {
+    margin-left: 1px;
+    margin-right: 3px;
+  }
+
+  /* ----------------------- */
+  /* About Section           */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Portfolio Section       */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Socials Section         */
+  /* ----------------------- */
+  .socials-container {
+    margin-left: 18%;
+  }
+
+  /* ----------------------- */
+  /* Footer Section          */
+  /* ----------------------- */
+}
+
+@media only screen and (max-width: 360px) {
+
+  /* ----------------------- */
+  /* Basic Setup             */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Reusable Components     */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Header Section          */
+  /* ----------------------- */
+  .hero-text-box {
+    left: 2%;
+    margin-left: 5px;
+  }
+
+  .main-navigation li {
+    margin-left: 0;
+    margin-right: 10px;
+  }
+
+  .main-navigation a:link,
+  .main-navigation a:visited {
+    font-size: 70%;
+  }
+
+  /* ----------------------- */
+  /* About Section           */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Portfolio Section       */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Socials Section         */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Footer Section          */
+  /* ----------------------- */
+}
+
+@media only screen and (max-width: 327px) {
+
+  /* ----------------------- */
+  /* Basic Setup             */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Reusable Components     */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Header Section          */
+  /* ----------------------- */
+  .hero-text-box {
+    top: 30%;
+    left: 3%;
+  }
+
+  .main-navigation {
+    margin-top: 25px;
+  }
+
+  .main-navigation li {
+    margin-left: 0;
+    margin-right: 5px;
+  }
+
+  .logo {
+    height: 60px;
+    width: auto;
+  }
+
+  /* ----------------------- */
+  /* About Section           */
+  /* ----------------------- */
+  .tech-stack-logo {
+    height: 40px;
+    width: auto;
+    margin: 0 5px;
+  }
+
+  /* ----------------------- */
+  /* Portfolio Section       */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Socials Section         */
+  /* ----------------------- */
+  .socials-container {
+    margin-left: 11%;
+  }
+
+  /* ----------------------- */
+  /* Footer Section          */
+  /* ----------------------- */
+}
+
+@media only screen and (max-width: 295px) {
+
+  /* ----------------------- */
+  /* Basic Setup             */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Reusable Components     */
+  /* ----------------------- */
+  .btn:link,
+  .btn:visited {
+    margin-right: 3px;
+  }
+
+  /* ----------------------- */
+  /* Header Section          */
+  /* ----------------------- */
+  .main-navigation li {
+    margin-left: 0;
+    margin-right: 3px;
+  }
+
+  /* ----------------------- */
+  /* About Section           */
+  /* ----------------------- */
+  /* ----------------------- */
+  /* Portfolio Section       */
+  /* ----------------------- */
+  .portfolio-image {
+    height: 130px;
+  }
+
+  /* ----------------------- */
+  /* Socials Section         */
+  /* ----------------------- */
+  .socials-icon {
+    margin: 0 8px;
+  }
+
+  /* ----------------------- */
+  /* Footer Section          */
+  /* ----------------------- */
+}
